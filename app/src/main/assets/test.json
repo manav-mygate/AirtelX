@@ -1,0 +1,77 @@
+{
+  "requestId": "10179871826557914521589793291693",
+  "data": {
+    "autoCompleteRequestString": "airtel",
+    "addressList": [{
+      "id": "HR15167806347712414",
+      "city": "Gurgaon",
+      "addressString": "bharti airtel ltd , sec-34 , Gurgaon",
+      "latitude": 28.43422,
+      "longitude": 77.01232,
+      "label": "Fiber"
+    }, {
+      "id": "HR15167806363579053",
+      "city": "Gurgaon",
+      "addressString": "bharti airtel pvt ltd,cyberium tower , imt manesar , Gurgaon",
+      "latitude": 28.37891,
+      "longitude": 76.90123,
+      "label": "Fiber"
+    }, {
+      "id": "HR151005214181822769",
+      "city": "Gurgaon",
+      "addressString": "Bharti Airtel Ltd , Electronics Hardware Tech Park , Sec-34 , Gurgaon",
+      "latitude": 28.43422,
+      "longitude": 77.01232,
+      "label": "Fiber"
+    }, {
+      "id": "45fd2007ea9afa78091ff8839d212d88",
+      "pinCode": "131028",
+      "city": "gurgaon",
+      "addressString": "0, Building airtel, kondli, gurgaon",
+      "latitude": 28.865734,
+      "longitude": 77.121291
+    }, {
+      "id": "3d1aa35be81a30d327beb70fecf1a200",
+      "pinCode": "122001",
+      "city": "gurgaon",
+      "addressString": "Building airtel, roshanpura road, roshanpura, gurgaon",
+      "latitude": 28.46066,
+      "longitude": 77.029822
+    }, {
+      "id": "1770feda65a29e8c4e4246e225c2f4e1",
+      "pinCode": "122001",
+      "city": "gurgaon",
+      "addressString": "Building airtel express, islampur road, islampur, gurgaon",
+      "latitude": 28.434575,
+      "longitude": 77.035304
+    }, {
+      "id": "bbc50c108bd23f86b9a5e871ded3f35e",
+      "pinCode": "122001",
+      "city": "gurgaon",
+      "addressString": "Building airtel tower, kadipur road, kadipur, gurgaon",
+      "latitude": 28.453008,
+      "longitude": 76.999863
+    }, {
+      "id": "9b2e8014d511380ebe81202a81385710",
+      "pinCode": "122004",
+      "city": "gurgaon",
+      "addressString": "Building airtel, narsinghpur road, narsinghpur, gurgaon",
+      "latitude": 28.415374,
+      "longitude": 76.991907
+    }, {
+      "id": "0c8d4bdf3fa6d7043c9121025ca8a03e",
+      "pinCode": "122007",
+      "city": "gurgaon",
+      "addressString": "386, Building airtel tower, sector 29 road, sector 29, gurgaon",
+      "latitude": 28.472122,
+      "longitude": 77.071366
+    }, {
+      "id": "b55135149f1c1d596d78e5c6738a1313",
+      "pinCode": "122001",
+      "city": "gurgaon",
+      "addressString": "Building airtel coustomer servies, old delhi road, sanjay gram, gurgaon",
+      "latitude": 28.476091,
+      "longitude": 77.043931
+    }]
+  }
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AirtelX</string>
+    <string name="an_alient_is_probably_blocking_your_signal">An alient is probably blocking your signal</string>
+    <string name="something_went_wrong">Something went wrong...</string>
+</resources>
